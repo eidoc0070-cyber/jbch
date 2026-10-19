@@ -1,0 +1,30 @@
+node_modules
+dist
+
+# 에디터 관련 설정 (개인마다 다를 수 있음)
+.vscode/
+.idea/
+
+# 운영체제 생성 파일
+.DS_Store
+Thumbs.db
+
+# 환경 변수 (중요 정보 유출 방지)
+.env
+.env.local
+
+docs/
+data-source/
+
+# Bun 전용 환경 (npm lock 파일 제외)
+package-lock.json
+
+1.txt
+2.txt
+3.txt
+4.txt
+5.txt
+6.txt
+7.txt
+8.txt
+9.txt
